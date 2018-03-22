@@ -1,0 +1,13 @@
+<php?
+
+echo "File writer";
+if ($a > $b)
+echo $a." Jest wieksze";
+else
+echo $b." Jest wieksze";
+echo "Nothing else just test";
+
+
+
+
+?>
